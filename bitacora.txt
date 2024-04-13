@@ -1,0 +1,13 @@
+- 13/04/2024 →  se crea repositorio en github phrase-quiz (origin)
+                se clona el repositorio en carpeta local documents/repositorios
+                se crea el archivo de python english-phrases
+                se lleva al area de preparacion con git add
+                se hace el commit con los cambios para actualizar repositorio local
+                se hace un push para actualizar cambios en github
+
+- 
+
+
+pediente:   crear diccionario en archivo python con frases populares en ingles
+            buscar frases mas populares en ingles con gemini y guardarlas
+        
